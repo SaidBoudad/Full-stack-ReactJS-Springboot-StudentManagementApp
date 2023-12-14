@@ -1,5 +1,7 @@
 # Student Management System
 
+![System Architecture](https://github.com/SaidBoudad/Full-stack-ReactJS-Springboot-StudentManagementApp/tree/main/System%20Architecture%20photo)
+
 ## Overview
 
 Welcome to the **Student Management System**, a robust full-stack application designed to handle various operations related to student information. This application offers essential CRUD functionalities, allowing users to manage student data seamlessly.
@@ -32,5 +34,9 @@ Welcome to the **Student Management System**, a robust full-stack application de
 - **Create React App CLI**: Quick and easy setup for React applications.
 - **Bootstrap 4.5**: Front-end framework for responsive and visually appealing designs.
 - **Axios HTTP Library**: Simplifying HTTP requests for efficient communication.
+
+## System Architecture
+
+![System Architecture](https://github.com/SaidBoudad/Full-stack-ReactJS-Springboot-StudentManagementApp/tree/main/System%20Architecture%20photo)
 
 Feel free to explore and contribute to the development of this Student Management System. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request. Happy coding!
