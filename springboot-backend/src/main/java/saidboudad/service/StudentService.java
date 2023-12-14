@@ -27,7 +27,6 @@ public class StudentService {
     }
 
     public Student getStudentById(String id) {
-        System.out.println(id);
         return studentRepository.findById(id)
                 .orElseThrow(() -> new ResourceNotFoundException("Student not exist with id :" + id));
     }
