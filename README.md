@@ -1,6 +1,6 @@
 # Student Management System
 
-![System Architecture](./System Architecture photo/System-Architecture.png)
+![System Architecture](./System-Architecture-photo/System-Architecture.png)
 
 ## Overview
 
