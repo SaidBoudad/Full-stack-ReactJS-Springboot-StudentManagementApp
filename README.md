@@ -1,6 +1,6 @@
 # Student Management System
 
-![System Architecture](https://github.com/SaidBoudad/Full-stack-ReactJS-Springboot-StudentManagementApp/tree/main/System%20Architecture%20photo)
+![System Architecture](./System Architecture photo/System-Architecture.png)
 
 ## Overview
 
